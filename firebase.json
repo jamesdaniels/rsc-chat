@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "source": ".",
+    "site": "nextjs-firestore-73e34",
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}
